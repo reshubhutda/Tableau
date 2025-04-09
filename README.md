@@ -1,2 +1,2 @@
 # Tableau
-Data Analytics &amp; Visuzalization
+Data Analytics &amp; Visualization
